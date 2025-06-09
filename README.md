@@ -3,7 +3,7 @@ Kohortová analýza je metoda používaná v oblasti analytiky a business intell
 
 
 
-## O datasetu
+## Dataset
 Poskytnutý dataset obsahuje údaje o interakci uživatelů, včetně metrik jako je počet nových a vracejících se uživatelů a délka jejich zapojení v 1. a 7. den. Data jsou strukturována podle data, což umožňuje časovou analýzu.
 
 
@@ -28,9 +28,11 @@ Poskytnutý dataset obsahuje údaje o interakci uživatelů, včetně metrik jak
 ## Hlavní zjištění
 
 ![image](https://github.com/user-attachments/assets/a5ec873b-154f-4971-b144-91e5732848d2)
+
 Nejsilnější korelace je mezi počtem nových a vracejících se uživatelů – noví uživatelé se často vracejí.
 
 ![image](https://github.com/user-attachments/assets/6e2019ba-0c00-4669-89ad-af2b10413db7)
+
 Z kohortní matice je patrné, že počet uživatelů i délka trvání interakcí se liší týden od týdne. Například ve 47. týdnu došlo k významnému nárůstu obou typů uživatelů. Délka trvání však nevykazuje přímou souvislost s počtem uživatelů – mohou ji ovlivňovat jiné faktory jako kvalita obsahu, technické problémy nebo externí události.
 
 
