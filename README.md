@@ -6,27 +6,24 @@ Kohortová analýza je metoda používaná v oblasti analytiky a business intell
 ## O datasetu
 Poskytnutý dataset obsahuje údaje o interakci uživatelů, včetně metrik jako je počet nových a vracejících se uživatelů a délka jejich zapojení v 1. a 7. den. Data jsou strukturována podle data, což umožňuje časovou analýzu.
 
-Klíčové sloupce v datasetu:
-Datum: Konkrétní dny interakcí uživatelů.
 
-Noví uživatelé: Počet nových uživatelů pro každý den.
-
-Vracející se uživatelé: Počet uživatelů, kteří se v daný den vrátili.
-
-Délka trvání – den 1: Průměrná doba interakce uživatele v jejich první den.
-
-Délka trvání – den 7: Průměrná doba interakce uživatele v jejich sedmý den.
+### Klíčové sloupce v datasetu:
+- **Datum**: Konkrétní dny interakcí uživatelů.
+- **Noví uživatelé**: Počet nových uživatelů pro každý den.
+- **Vracející se uživatelé**: Počet uživatelů, kteří se v daný den vrátili.
+- **Délka trvání – den 1**: Průměrná doba interakce uživatele v jejich první den.
+- **Délka trvání – den 7**: Průměrná doba interakce uživatele v jejich sedmý den.
 
 ## Cíle projektu
-Identifikovat trendy v získávání nových uživatelů a udržení vracejících se uživatelů na týdenní bázi.
+1. Identifikovat trendy v získávání nových uživatelů a udržení vracejících se uživatelů na týdenní bázi.
 
-Porozumět vývoji zapojení uživatelů – jak se mění průměrná délka interakce od prvního dne do sedmého.
+2. Porozumět vývoji zapojení uživatelů – jak se mění průměrná délka interakce od prvního dne do sedmého.
 
-Odhalit výrazné týdenní vzorce nebo odchylky v chování a zapojení uživatelů a prozkoumat možné příčiny těchto trendů.
+3. Odhalit výrazné týdenní vzorce nebo odchylky v chování a zapojení uživatelů a prozkoumat možné příčiny těchto trendů.
 
-Prozkoumat vztah mezi retencí a zapojením (dle metrik délky interakce), a posoudit efektivitu zapojovacích strategií.
+4. Prozkoumat vztah mezi retencí a zapojením (dle metrik délky interakce), a posoudit efektivitu zapojovacích strategií.
 
-Poskytnout akční doporučení pro marketing, tvorbu obsahu a zlepšení uživatelské zkušenosti.
+5. Poskytnout akční doporučení pro marketing, tvorbu obsahu a zlepšení uživatelské zkušenosti.
 
 ## Hlavní zjištění
 
