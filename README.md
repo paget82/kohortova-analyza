@@ -16,7 +16,7 @@ Poskytnutý dataset obsahuje údaje o interakci uživatelů, včetně metrik jak
 - **Délka trvání – den 1**: Průměrná doba interakce uživatele v jejich první den.
 - **Délka trvání – den 7**: Průměrná doba interakce uživatele v jejich sedmý den.
 
-## Cíle projektu
+## Cíl projektu
 1. Identifikovat trendy v získávání nových uživatelů a udržení vracejících se uživatelů na týdenní bázi.
 
 2. Porozumět vývoji zapojení uživatelů – jak se mění průměrná délka interakce od prvního dne do sedmého.
