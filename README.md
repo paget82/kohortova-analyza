@@ -33,17 +33,13 @@ Poskytnutý dataset obsahuje údaje o interakci uživatelů, včetně metrik jak
 
 ![kohortova-analyza](https://github.com/paget82/kohortova-analyza/blob/main/Trend%20of%20Duration%20(Day%201%20and%20Day%207)%20Over%20Time.png)
 
-![kohortova-analyza](https://github.com/paget82/kohortova-analyza/raw/main/Weekly%20Average%20of%20New%20vs.%20Returning%20Users.png)
-
-![kohortova-analyza](https://github.com/paget82/kohortova-analyza/raw/main/Weekly%20Average%20of%20Duration.png)
-
-
-
-
-
 ![image](https://github.com/user-attachments/assets/a5ec873b-154f-4971-b144-91e5732848d2)
 
 Nejsilnější korelace je mezi počtem nových a vracejících se uživatelů – noví uživatelé se často vracejí.
+
+![kohortova-analyza](https://github.com/paget82/kohortova-analyza/raw/main/Weekly%20Average%20of%20New%20vs.%20Returning%20Users.png)
+
+![kohortova-analyza](https://github.com/paget82/kohortova-analyza/raw/main/Weekly%20Average%20of%20Duration.png)
 
 ![image](https://github.com/user-attachments/assets/6e2019ba-0c00-4669-89ad-af2b10413db7)
 
