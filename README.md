@@ -1,5 +1,5 @@
 # Projekt: Kohortová analýza
-Kohortová analýza je metoda používaná v oblasti analytiky a business intelligence, která slouží ke rozdělení zákazníků nebo uživatelů do kohort na základě společných charakteristik nebo zkušeností v určitém časovém období. Tyto kohorty jsou pak sledovány v čase, aby bylo možné pozorovat změny v chování, používání nebo jiných klíčových metrikách.
+Kohortová analýza je metoda používaná v oblasti analytiky a business intelligence, která slouží k rozdělení zákazníků nebo uživatelů do kohort na základě společných charakteristik nebo zkušeností v určitém časovém období. Tyto kohorty jsou pak sledovány v čase, aby bylo možné pozorovat změny v chování, používání nebo jiných klíčových metrikách.
 
 ###  Soubory ke stažení
 -  [CSV](cohorts.csv) – Dataset
@@ -23,9 +23,9 @@ Poskytnutý dataset obsahuje údaje o interakci uživatelů, včetně metrik jak
 
 3. Odhalit výrazné týdenní vzorce nebo odchylky v chování a zapojení uživatelů a prozkoumat možné příčiny těchto trendů.
 
-4. Prozkoumat vztah mezi retencí a zapojením (dle metrik délky interakce), a posoudit efektivitu zapojovacích strategií.
+4. Prozkoumat vztah mezi retencí a zapojením, abyste mohli posoudit účinnost "user engagement" strategií.
 
-5. Poskytnout akční doporučení pro marketing, tvorbu obsahu a zlepšení uživatelské zkušenosti.
+6. Poskytnout akční doporučení pro marketing, tvorbu obsahu a zlepšení uživatelské zkušenosti.
 
 ## Hlavní zjištění
 
