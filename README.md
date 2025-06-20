@@ -28,7 +28,7 @@ Poskytnutý dataset obsahuje údaje o interakci uživatelů, včetně metrik jak
 
 6. Poskytnout akční doporučení pro marketing, tvorbu obsahu a zlepšení uživatelské zkušenosti.
 
-## Hlavní zjištění
+## Výsledek
 ![kohortova-analyza](https://github.com/paget82/kohortova-analyza/blob/main/Trend%20of%20New%20and%20Returning%20Users%20Over%20Time.png)
 
 ![kohortova-analyza](https://github.com/paget82/kohortova-analyza/blob/main/Trend%20of%20Duration%20(Day%201%20and%20Day%207)%20Over%20Time.png)
