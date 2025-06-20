@@ -6,7 +6,7 @@ Kohortová analýza je metoda používaná v oblasti analytiky a business intell
 
 
 ## Dataset
-Poskytnutý dataset obsahuje údaje o interakci uživatelů, včetně metrik jako je počet nových a vracejících se uživatelů a délka jejich zapojení v 1. a 7. den. Data jsou strukturována podle data, což umožňuje časovou analýzu.
+Poskytnutý dataset obsahuje údaje o interakci uživatelů, včetně metrik jako je počet nových a vracejících se uživatelů a délka jejich zapojení v 1. a 7. den.
 
 
 ### Klíčové sloupce v datasetu:
