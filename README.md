@@ -48,6 +48,3 @@ Nejsilnější korelace je mezi počtem nových a vracejících se uživatelů �
 Z kohortní matice je patrné, že počet uživatelů i délka trvání interakcí se liší týden od týdne. Například ve 47. týdnu došlo k významnému nárůstu obou typů uživatelů. Délka trvání však nevykazuje přímou souvislost s počtem uživatelů – mohou ji ovlivňovat jiné faktory jako kvalita obsahu, technické problémy nebo externí události.
 
 
-## Shrnutí
-Kohortová analýza je účinná metoda pro pochopení chování specifických skupin uživatelů v čase. Je velmi přínosná pro firmy, protože přináší detailnější a využitelnější přehledy, které mohou být základem pro zlepšení produktů, služeb a marketingových strategií.
-
