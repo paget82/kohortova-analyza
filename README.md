@@ -3,6 +3,7 @@ Kohortová analýza je metoda používaná v oblasti analytiky a business intell
 
 ###  Soubory ke stažení
 -  [CSV](cohorts.csv) – Dataset
+-  [Jupyter Notebook](kohortova-analyza.ipynb) – Kohortová analýza
 
 
 ## Dataset
@@ -28,11 +29,14 @@ Poskytnutý dataset obsahuje údaje o interakci uživatelů, včetně metrik jak
 6. Poskytnout akční doporučení pro marketing, tvorbu obsahu a zlepšení uživatelské zkušenosti.
 
 ## Hlavní zjištění
+![kohortova-analyza](https://github.com/paget82/kohortova-analyza/blob/main/Trend%20of%20New%20and%20Returning%20Users%20Over%20Time.png)
 
+![kohortova-analyza](https://github.com/paget82/kohortova-analyza/blob/main/Trend%20of%20Duration%20(Day%201%20and%20Day%207)%20Over%20Time.png)
 
 ![kohortova-analyza](https://github.com/paget82/kohortova-analyza/raw/main/Weekly%20Average%20of%20Duration.png)
 
 ![kohortova-analyza](https://github.com/paget82/kohortova-analyza/raw/main/Weekly%20Average%20of%20New%20vs.%20Returning%20Users.png)
+
 
 
 ![image](https://github.com/user-attachments/assets/a5ec873b-154f-4971-b144-91e5732848d2)
